@@ -38,4 +38,9 @@ public class User {
 
     public void setEmailVerified(boolean b) {
     }
+
+
+    public boolean isEmailVerified() {
+        return false;
+    }
 }
